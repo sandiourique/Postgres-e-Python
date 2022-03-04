@@ -1,4 +1,4 @@
-# Postgres-e-Python
+# postgres-e-python
 Subindo dados no Postgres através do Python
 
 Atividade
